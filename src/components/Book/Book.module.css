@@ -1,0 +1,9 @@
+.products {
+  margin: 20px auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: antiquewhite;
+  border-radius: 5px;
+}

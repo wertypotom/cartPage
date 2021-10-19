@@ -1,0 +1,19 @@
+.cartImage {
+  width: 200px;
+  height: auto;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+.cartItemsList {
+  display: flex;
+  align-items: center;
+  padding: 20px 0px 20px 20px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 5%;
+}
+
+.cartItemsName,
+.cartFunction {
+  width: 25%;
+}

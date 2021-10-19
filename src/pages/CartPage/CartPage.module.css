@@ -1,0 +1,26 @@
+.cartItems {
+  margin: 30px auto;
+  width: 70%;
+  background-color: wheat;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.totalPrice {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px 20px 20px;
+  font-size: 20px;
+  font-weight: 700;
+  border-top: 2px solid #000;
+}
+
+.header {
+  text-align: center;
+  font-weight: 500;
+  padding-bottom: 20px;
+  margin-top: 0px;
+  border-bottom: 2px solid #000;
+}
